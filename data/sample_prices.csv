@@ -1,0 +1,17 @@
+sku,description,supplier,country,unit_price,currency,stock_qty,lead_time_days,observed_date,source_url
+AV-4721-01,Fuel Pump Assembly,Aero Gulf Parts,UAE,4200,USD,3,7,2026-09-20,https://example.com/aero-gulf/av-4721-01
+AV-4721-01,Fuel Pump Assembly,Aero Gulf Parts,UAE,4375,USD,3,7,2026-10-06,https://example.com/aero-gulf/av-4721-01
+AV-4721-01,Fuel Pump Assembly,Skyline Aviation Supply,Qatar,15400,QAR,2,10,2026-09-22,https://example.com/skyline/av-4721-01
+AV-4721-01,Fuel Pump Assembly,Skyline Aviation Supply,Qatar,15800,QAR,2,10,2026-10-06,https://example.com/skyline/av-4721-01
+FLT-908,Oil Filter,Gulf Technical Stores,UAE,335,AED,60,3,2026-09-18,https://example.com/gulf-tech/flt-908
+FLT-908,Oil Filter,Gulf Technical Stores,UAE,340,AED,60,3,2026-10-06,https://example.com/gulf-tech/flt-908
+FLT-908,Oil Filter,Arabian Aero Components,Saudi Arabia,360,SAR,42,5,2026-09-21,https://example.com/arabian/flt-908
+FLT-908,Oil Filter,Arabian Aero Components,Saudi Arabia,390,SAR,42,5,2026-10-06,https://example.com/arabian/flt-908
+BRK-771,Brake Assembly,Peninsula Aircraft Materials,Qatar,9700,QAR,3,10,2026-09-19,https://example.com/peninsula/brk-771
+BRK-771,Brake Assembly,Peninsula Aircraft Materials,Qatar,9800,QAR,3,10,2026-10-06,https://example.com/peninsula/brk-771
+BRK-771,Brake Assembly,Euro MRO Supply,Germany,2375,EUR,2,16,2026-09-23,https://example.com/euro-mro/brk-771
+BRK-771,Brake Assembly,Euro MRO Supply,Germany,2440,EUR,2,16,2026-10-06,https://example.com/euro-mro/brk-771
+BAT-24V-40,Aircraft Battery 24V,Caspian Aviation Stores,Azerbaijan,2550,USD,5,12,2026-09-20,https://example.com/caspian/bat-24v-40
+BAT-24V-40,Aircraft Battery 24V,Caspian Aviation Stores,Azerbaijan,2600,USD,5,12,2026-10-06,https://example.com/caspian/bat-24v-40
+BAT-24V-40,Aircraft Battery 24V,Aero Gulf Parts,UAE,9950,AED,8,8,2026-09-22,https://example.com/aero-gulf/bat-24v-40
+BAT-24V-40,Aircraft Battery 24V,Aero Gulf Parts,UAE,10150,AED,8,8,2026-10-06,https://example.com/aero-gulf/bat-24v-40
